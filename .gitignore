@@ -1,0 +1,35 @@
+.vscode
+__pycache__/
+venv/
+
+# Generated file patterns
+*.pyc
+*.diag
+*.out
+*.txt
+*.json
+*.so
+
+# Kernel build artifacts
+*.o
+*.ko
+*.mod
+*.mod.c
+modules.order
+Module.symvers
+.tmp_versions/
+*.cmd
+
+# diag generated directories
+diag/code
+diag/bin
+diag/outputs
+
+# profiling generated directories/files
+profiling/profiling_server/injector
+profiling/profiling_server/code
+profiling/profiling_server/profile_results
+profiling/profiling_server/target_workload_runners
+
+# scheduling generated files
+scheduling/script/run_testing_process.py
