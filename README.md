@@ -147,4 +147,10 @@ Detailed documentation is available in the [docs/](docs/) directory:
 | [Configuration](docs/configuration.md) | All configuration options |
 
 ## Publication
-TBD.
+
+If you use SMTcheck in your research, please cite our paper:
+**SMTcheck: SMT Interference Profiling and Scheduling Framework**  
+Sanghyun Kim\*, Jinhyeok Oh\*, Taehun Kim, Gyutae Kim, Youngsok Kim, Jaehyun Hwang, and Joonsung Kim  
+(\* Equal contribution)  
+*IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2026*  
+[[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/11408462)
